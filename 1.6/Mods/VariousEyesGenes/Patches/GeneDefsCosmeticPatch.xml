@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<!-- Not needed?
+<!-- Not needed? -->
 <Patch>
 	<Operation Class="PatchOperationFindMod">
 		<mods>
 			<li>Various Eyes Genes</li>
 		</mods>
-		<match Class="PatchOperationSequence">
+		<!--<match Class="PatchOperationSequence">
 			<operations>
 				<li Class="PatchOperationReplace">
 					<xpath>*/GeneDef[defName="Eyes_Green_eyes"]//texPath</xpath>
@@ -20,7 +20,6 @@
 					</value>
 				</li>
 			</operations>
-		</match>
+		</match>-->
 	</Operation>
 </Patch>
--->

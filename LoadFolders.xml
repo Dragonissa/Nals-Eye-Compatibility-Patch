@@ -5,8 +5,5 @@
 	<v1.6>
 		<li>/</li>
 		<li IfModActive="collalt.variouseyesgenes">1.6/Mods/VariousEyesGenes</li>
-		<li IfModActive="ludeon.rimworld">1.6/Mods/Core</li>
-		<li IfModActive="ludeon.rimworld.biotech">1.6/Mods/BioTech</li>
-		<li IfModActive="ludeon.rimworld.anomaly">1.6/Mods/Anomaly</li>
 	</v1.6>
 </loadFolders>
