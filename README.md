@@ -20,3 +20,9 @@ A simple texture patch that replaces wounded, bionic, bandaged, and xenotype eye
 
 - [Various Eyes Genes](https://steamcommunity.com/sharedfiles/filedetails/?id=2880903154)
 - [Glowing eyes genes](https://steamcommunity.com/sharedfiles/filedetails/?id=3023336989)
+
+
+## Similar mods (Not needed anymore, those patches are included)
+- [No Red Eyes](https://steamcommunity.com/sharedfiles/filedetails/?id=3223848201) 
+- [No Gray Eyes](https://steamcommunity.com/sharedfiles/filedetails/?id=3223815154) 
+- [Hidden Eyes](https://steamcommunity.com/sharedfiles/filedetails/?id=2590369351) 
