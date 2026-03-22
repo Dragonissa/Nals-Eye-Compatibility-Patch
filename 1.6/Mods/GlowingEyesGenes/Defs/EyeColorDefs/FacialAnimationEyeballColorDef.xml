@@ -1,8 +1,38 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 	<FacialAnimation.EyeballColorDef>
-		<defName>Eyes_Blue_EyeColor</defName>
-		<geneDef>Eyes_Blue_eyes</geneDef>
-		<eyeballColor>RGB(50.0,94.0,165.0)</eyeballColor>  
+		<defName>Eyes_GlowingRed_EyeColor</defName>
+		<geneDef>GEG_Eyes_GlowingRed</geneDef>
+		<eyeballColor>RGB(255.0,0.0,0.0)</eyeballColor>  
+	</FacialAnimation.EyeballColorDef>
+	<FacialAnimation.EyeballColorDef>
+		<defName>Eyes_GlowingArchotech_EyeColor</defName>
+		<geneDef>GEG_Eyes_GlowingArchotech</geneDef>
+		<eyeballColor>RGB(218.0,255.0,0.0)</eyeballColor>  
+	</FacialAnimation.EyeballColorDef>
+	<FacialAnimation.EyeballColorDef>
+		<defName>Eyes_GlowingPurple_EyeColor</defName>
+		<geneDef>GEG_Eyes_GlowingPurple</geneDef>
+		<eyeballColor>RGB(205.0,0.0,255.0)</eyeballColor>  
+	</FacialAnimation.EyeballColorDef>
+	<FacialAnimation.EyeballColorDef>
+		<defName>Eyes_GlowingOrange_EyeColor</defName>
+		<geneDef>GEG_Eyes_GlowingOrange</geneDef>
+		<eyeballColor>RGB(255.0,166.0,0.0)</eyeballColor>  
+	</FacialAnimation.EyeballColorDef>
+	<FacialAnimation.EyeballColorDef>
+		<defName>Eyes_GlowingCyan_EyeColor</defName>
+		<geneDef>GEG_Eyes_GlowingCyan</geneDef>
+		<eyeballColor>RGB(0.0,255.0,255.0)</eyeballColor>  
+	</FacialAnimation.EyeballColorDef>
+	<FacialAnimation.EyeballColorDef>
+		<defName>Eyes_GlowingWhite_EyeColor</defName>
+		<geneDef>GEG_Eyes_GlowingWhite</geneDef>
+		<eyeballColor>RGB(255.0,255.0,255.0)</eyeballColor>  
+	</FacialAnimation.EyeballColorDef>
+	<FacialAnimation.EyeballColorDef>
+		<defName>Eyes_GlowingNoctol_EyeColor</defName>
+		<geneDef>GEG_Eyes_GlowingNoctol</geneDef>
+		<eyeballColor>RGB(255.0,255.0,166.0)</eyeballColor>  
 	</FacialAnimation.EyeballColorDef>
 </Defs>

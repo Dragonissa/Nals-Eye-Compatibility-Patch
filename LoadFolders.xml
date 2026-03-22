@@ -1,9 +1,17 @@
-<loadFolders>
+<loadFolders>v
+	<v1.4>
+		<li>/</li>
+		<li IfModActive="collalt.variouseyesgenes">1.6/Mods/VariousEyesGenes</li>
+		<li IfModActive="lts.geg">1.6/Mods/GlowingEyesGenes</li>
+	</v1.4>
 	<v1.5>
 		<li>/</li>
+		<li IfModActive="collalt.variouseyesgenes">1.6/Mods/VariousEyesGenes</li>
+		<li IfModActive="lts.geg">1.6/Mods/GlowingEyesGenes</li>
 	</v1.5>
 	<v1.6>
 		<li>/</li>
 		<li IfModActive="collalt.variouseyesgenes">1.6/Mods/VariousEyesGenes</li>
+		<li IfModActive="lts.geg">1.6/Mods/GlowingEyesGenes</li>
 	</v1.6>
 </loadFolders>
