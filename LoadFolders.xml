@@ -1,4 +1,4 @@
-<loadFolders>v
+<loadFolders>
 	<v1.4>
 		<li>/</li>
 		<li IfModActive="collalt.variouseyesgenes">1.6/Mods/VariousEyesGenes</li>
