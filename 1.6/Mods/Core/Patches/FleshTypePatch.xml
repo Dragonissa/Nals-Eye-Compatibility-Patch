@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Core</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/FleshTypeDef[defName="Normal"]//li[hediff="MissingBodyPart"]//li[contains(textureSouth, "MissingEye")]/textureSouth</xpath>
+						<value>
+						  <textureSouth>Things/None</textureSouth>
+						</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/FleshTypeDef[defName="Normal"]//li[hediff="MissingBodyPart"]//li[contains(textureNorth, "MissingEye")]/textureNorth</xpath>
+						<value>
+						  <textureNorth>Things/None</textureNorth>
+						</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/FleshTypeDef[defName="Normal"]//li[hediff="MissingBodyPart"]//li[contains(textureEast, "MissingEye")]/textureEast</xpath>
+						<value>
+						  <textureEast>Things/None</textureEast>
+						</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>Defs/FleshTypeDef[defName="Normal"]//li[hediff="MissingBodyPart"]//li[contains(textureWest, "MissingEye")]/textureWest</xpath>
+						<value>
+						  <textureWest>Things/None</textureWest>
+						</value>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+</Patch>

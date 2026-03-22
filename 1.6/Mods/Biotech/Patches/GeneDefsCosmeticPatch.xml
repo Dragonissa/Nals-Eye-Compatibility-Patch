@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Biotech</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				<li Class="PatchOperationReplace">
+					<xpath>*/GeneDef[defName="Eyes_Gray" or defName="Eyes_Red"]//texPath</xpath>
+					<value>
+						<texPath>Things/None</texPath>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>*/GeneDef[defName="Eyes_Gray" or defName="Eyes_Red"]//texPathFemale</xpath>
+					<value>
+						<texPathFemale>Things/None</texPathFemale>
+					</value>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+</Patch>
