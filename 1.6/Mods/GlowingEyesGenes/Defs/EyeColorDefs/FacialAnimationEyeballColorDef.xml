@@ -5,34 +5,4 @@
 		<geneDef>Eyes_Blue_eyes</geneDef>
 		<eyeballColor>RGB(50.0,94.0,165.0)</eyeballColor>  
 	</FacialAnimation.EyeballColorDef>
-	<FacialAnimation.EyeballColorDef>
-		<defName>Eyes_Green_EyeColor</defName>
-		<geneDef>Eyes_Green_eyes</geneDef>
-		<eyeballColor>RGB(94.0,151.0,32.0)</eyeballColor>  
-	</FacialAnimation.EyeballColorDef>
-	<FacialAnimation.EyeballColorDef>
-		<defName>Eyes_Orange_EyeColor</defName>
-		<geneDef>Eyes_Orange_eyes</geneDef>
-		<eyeballColor>RGB(255.0,165.0,0.0)</eyeballColor>  
-	</FacialAnimation.EyeballColorDef>
-	<FacialAnimation.EyeballColorDef>
-		<defName>Eyes_Purple_EyeColor</defName>
-		<geneDef>Eyes_Purple_eyes</geneDef>
-		<eyeballColor>RGB(159.0,21.0,245.0)</eyeballColor>  
-	</FacialAnimation.EyeballColorDef>
-	<FacialAnimation.EyeballColorDef>
-		<defName>Eyes_SnowWhite_EyeColor</defName>
-		<geneDef>Eyes_SnowWhite_eyes</geneDef>
-		<eyeballColor>RGB(223.0,223.0,223.0)</eyeballColor>  
-	</FacialAnimation.EyeballColorDef>
-	<FacialAnimation.EyeballColorDef>
-		<defName>Eyes_Teal_EyeColor</defName>
-		<geneDef>Eyes_Teal_eyes</geneDef>
-		<eyeballColor>RGB(36.0,154.0,131.0)</eyeballColor>  
-	</FacialAnimation.EyeballColorDef>
-	<FacialAnimation.EyeballColorDef>
-		<defName>Eyes_Yellow_EyeColor</defName>
-		<geneDef>Eyes_Yellow_eyes</geneDef>
-		<eyeballColor>RGB(241.0,220.0,35.0)</eyeballColor>  
-	</FacialAnimation.EyeballColorDef>
 </Defs>
