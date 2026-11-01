@@ -14,4 +14,9 @@
 		<li IfModActive="collalt.variouseyesgenes">1.6/Mods/VariousEyesGenes</li>
 		<li IfModActive="lts.geg">1.6/Mods/GlowingEyesGenes</li>
 	</v1.6>
+	<v1.7>
+		<li>/</li>
+		<li IfModActive="collalt.variouseyesgenes">1.6/Mods/VariousEyesGenes</li>
+		<li IfModActive="lts.geg">1.6/Mods/GlowingEyesGenes</li>
+	</v1.7>
 </loadFolders>
